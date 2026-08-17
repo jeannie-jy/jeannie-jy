@@ -26,7 +26,7 @@ No framework magic: the agent loop, tooling, and safety rails are hand-built, so
 
 *南京大学在校生专属匹配平台 — soul-questionnaire matching and a full campus community, live in production.*
 
-A real product with real users: in a four-person team, I owned the forum module end to end — schema, permission-checked API, front-end — including a five-factor recommendation ranking (MBTI + interest profile + collaborative filtering + freshness + quality) on PostgreSQL full-text search.
+A real product with real users: I owned the forum module end to end — schema, permission-checked API, front-end — including a five-factor recommendation ranking (MBTI + interest profile + collaborative filtering + freshness + quality) on PostgreSQL full-text search.
 
 `React · TypeScript · Express · PostgreSQL · Docker` · [live →](https://njumatch.com)
 
@@ -42,9 +42,13 @@ Agent orchestration applied to a real domain: planning, roles, and teaching logi
 
 ## Stack
 
-**AI / Agents** — LLM · Agents · RAG · Prompt Engineering · Multi-Agent
+**AI / Agents** — LLM · Agents · RAG · Tool Calling · Multi-Agent · Evaluation
 
-**Engineering** — Java · Python · C++ · TypeScript · Git · Linux · Docker
+**Backend** — Java · Python · Spring Boot · RESTful API · PostgreSQL · Redis
+
+**Engineering** — C++ · TypeScript · Git · Linux · Docker · CI/CD
+
+**Infrastructure** — MySQL · PostgreSQL · Redis · Kafka · Nginx
 
 ---
 
@@ -55,9 +59,3 @@ Agent orchestration applied to a real domain: planning, roles, and teaching logi
 > **Make reliability a feature.** Deterministic where it matters, tested where it doesn't.
 >
 > **Ship like it's a product.** Small, real, finished.
-
----
-
-## Contact
-
-Reach me on GitHub — [@jeannie-jy](https://github.com/jeannie-jy)
