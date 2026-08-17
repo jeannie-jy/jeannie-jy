@@ -6,7 +6,7 @@
 
 **Agent Builder · Software Engineering · Nanjing University**
 
-I build agents and LLM-powered tools that ship — hand-built from scratch, end to end.
+Turning coffee into scalable code.
 
 
 <img src=".github/profile/assets/spacer.png" width="190" alt="" align="left"/><img src=".github/profile/assets/fairy_right.png" width="190" alt="✦" align="right"/><img src=".github/profile/assets/divider.svg" width="320" alt=""/>
